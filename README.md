@@ -8,11 +8,11 @@
 
 Turning true-crime energy into something productive. MSc in Cybersecurity & Forensic IT, currently obsessed with GRC, digital forensics, and figuring out how people actually get hacked (mostly through Darknet Diaries).
 
-🛡️ Focused on ISO 27001, NIST, and GDPR-aligned risk assessment<br>
+🛡️ ISO 27001 (pursuing Lead Implementer), NIST, and GDPR-aligned risk assessment<br>
 🔍 Digital forensics — FTK, Autopsy, Cellebrite, chain of custody<br>
 🤖 Working towards IAPP's AI Governance Professional (AIGP), exploring AI security hands-on<br>
-💻 Full stack developer (React, Next.js, TypeScript, Node.js) — I understand security from the builder's side too<br>
-🚀 Currently building a task management app with Tauri + React
+🕵️ Building **Kyther** — a plugin-based OSINT orchestration tool — and running hands-on cloud security audits with Prowler<br>
+💻 Full stack developer (React, Next.js, TypeScript, Node.js) — I understand security from the builder's side too
 
 ## 🛠️ Stack & Frameworks
 
