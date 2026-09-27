@@ -10,9 +10,17 @@ Turning true-crime energy into something productive. MSc in Cybersecurity & Fore
 
 🛡️ ISO 27001 (pursuing Lead Implementer), NIST, and GDPR-aligned risk assessment<br>
 🔍 Digital forensics — FTK, Autopsy, Cellebrite, chain of custody<br>
-🤖 Working towards IAPP's AI Governance Professional (AIGP), exploring AI security hands-on<br>
-🕵️ Building **Kyther** — a plugin-based OSINT orchestration tool — and running hands-on cloud security audits with Prowler<br>
-💻 Full stack developer (React, Next.js, TypeScript, Node.js) — I understand security from the builder's side too
+🤖 Working towards IAPP's AI Governance Professional (AIGP), exploring AI security hands-on
+
+## 🚧 Things I've Built
+
+🕵️ **[Kyther](https://github.com/Ammu-yuu/Kyther)** — plugin-based OSINT orchestration engine. 18 analyzers, entity pivoting (username → email → domain → infra), SSRF-guarded, terminal-style UI.
+
+🧠 **[Anchor](https://github.com/Ammu-yuu/Anchor)** — spaced-repetition flashcard app for GRC study ([live](https://ammu-yuu.github.io/Anchor/)). 12 decks covering ISO 27001, NIST, GDPR, AI governance and more, SM-2 scheduling, offline-first PWA, cross-device sync.
+
+📋 **Taskly** — gamified productivity PWA (Expo/React Native + Supabase). Task management with XP/levels/streaks, offline-first sync, scheduled push reminders, and a goal-breakdown engine.
+
+Full stack development (React, Next.js, TypeScript, Node.js, React Native) — I understand security from the builder's side too.
 
 ## 🛠️ Stack & Frameworks
 
